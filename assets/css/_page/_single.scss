@@ -225,6 +225,10 @@
         [theme=dark] & {
           border-color: darken($table-thead-color-dark, 2%);
         }
+
+        &:last-child {
+          width: 100%;
+        }
       }
 
       tr:last-child td:first-child {

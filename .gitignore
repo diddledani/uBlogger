@@ -1,9 +1,11 @@
 # Created by .ignore support plugin (hsz.mobi)
+/node_modules/
 /public/
 /resources/_gen/
 hugo.exe
 hugo.darwin
 hugo.linux
+.hugo_build.lock
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
@@ -33,3 +35,4 @@ fabric.properties
 .idea/httpRequests
 .idea/caches/build_file_checksums.ser
 /exampleSite/public/
+/exampleSite/resources/_gen/
